@@ -1,0 +1,15 @@
+.div{
+    height: 250px;
+    width: 20%;
+    background-color: aquamarine;
+    background-image: url(./imgs/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(250, 242, 242);
+
+}
+td:hover{
+    background-color:rgb(50, 13, 24);
+    cursor: pointer;
+}
